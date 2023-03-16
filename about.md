@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-## we are ready to assist
+##we are ready to assist
 
 welcome to work with us on any project you need assistance on
 
